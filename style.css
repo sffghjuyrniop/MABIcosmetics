@@ -1,0 +1,37 @@
+body {
+	background-image: url("بک مبی.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box {
+	width: 90%;
+	height: 650px;
+	position: relative;
+	margin-left: 74px;
+	margin-top: 985px;
+}
+.item {
+	width: 300px;
+	height: 300px;
+	position: absolute;
+}
+.tel{
+	top: 51px;
+}
+.pho{
+	top: -15px;
+    left: 252px
+}
+.loc{
+	top: 51px;
+    left: 504px
+}
+.wat{
+	left: 140px;
+    top: 302px
+}
+.ins{
+	left: 396px;
+    top: 302px;
+}
+
